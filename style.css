@@ -16,7 +16,6 @@ body {
 }
 
 .input-container {
-  /* background-color: red; */
   width: 500px;
   margin-top: 80px;
   margin-bottom: 50px;
@@ -42,6 +41,7 @@ body {
   text-align: center;
   margin-top: 40px;
   margin-bottom: 20px;
+  color: #333;
 }
 
 .input-container .container {
@@ -58,8 +58,6 @@ body {
 }
 
 .input-container .container .input-div .inpt {
-  /* background-color: pink; */
-  /* display: inline-block; */
   background-color: #fff;
   padding: 4px 10px;
   font-weight: 600;
